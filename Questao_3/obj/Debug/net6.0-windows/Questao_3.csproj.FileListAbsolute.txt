@@ -1,0 +1,17 @@
+C:\Users\guilh\OneDrive\Documentos\aula\P.O.O\Questao_3\Questao_3\bin\Debug\net6.0-windows\Questao_3.exe
+C:\Users\guilh\OneDrive\Documentos\aula\P.O.O\Questao_3\Questao_3\bin\Debug\net6.0-windows\Questao_3.deps.json
+C:\Users\guilh\OneDrive\Documentos\aula\P.O.O\Questao_3\Questao_3\bin\Debug\net6.0-windows\Questao_3.runtimeconfig.json
+C:\Users\guilh\OneDrive\Documentos\aula\P.O.O\Questao_3\Questao_3\bin\Debug\net6.0-windows\Questao_3.dll
+C:\Users\guilh\OneDrive\Documentos\aula\P.O.O\Questao_3\Questao_3\bin\Debug\net6.0-windows\Questao_3.pdb
+C:\Users\guilh\OneDrive\Documentos\aula\P.O.O\Questao_3\Questao_3\obj\Debug\net6.0-windows\Questao_3.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\aula\P.O.O\Questao_3\Questao_3\obj\Debug\net6.0-windows\Questao_3.Form1.resources
+C:\Users\guilh\OneDrive\Documentos\aula\P.O.O\Questao_3\Questao_3\obj\Debug\net6.0-windows\Questao_3.csproj.GenerateResource.cache
+C:\Users\guilh\OneDrive\Documentos\aula\P.O.O\Questao_3\Questao_3\obj\Debug\net6.0-windows\Questao_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Documentos\aula\P.O.O\Questao_3\Questao_3\obj\Debug\net6.0-windows\Questao_3.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Documentos\aula\P.O.O\Questao_3\Questao_3\obj\Debug\net6.0-windows\Questao_3.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Documentos\aula\P.O.O\Questao_3\Questao_3\obj\Debug\net6.0-windows\Questao_3.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\aula\P.O.O\Questao_3\Questao_3\obj\Debug\net6.0-windows\Questao_3.dll
+C:\Users\guilh\OneDrive\Documentos\aula\P.O.O\Questao_3\Questao_3\obj\Debug\net6.0-windows\refint\Questao_3.dll
+C:\Users\guilh\OneDrive\Documentos\aula\P.O.O\Questao_3\Questao_3\obj\Debug\net6.0-windows\Questao_3.pdb
+C:\Users\guilh\OneDrive\Documentos\aula\P.O.O\Questao_3\Questao_3\obj\Debug\net6.0-windows\Questao_3.genruntimeconfig.cache
+C:\Users\guilh\OneDrive\Documentos\aula\P.O.O\Questao_3\Questao_3\obj\Debug\net6.0-windows\ref\Questao_3.dll
